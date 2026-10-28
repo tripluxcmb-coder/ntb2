@@ -1,0 +1,18 @@
+{
+  "version": "2.0",
+  "perspective": "bank",
+  "notes": "Management classification defaults for the supplied month-end balance extract. Confirm this source dictionary before production. CARD CR is treated as a customer credit balance, not merchant acquiring turnover. Remittances are shown as payment activity separately from the funded balance sheet. Guarantees and documentary credits are non-funded facilities, not funded loans.",
+  "mapping": {
+    "CASA|CR": {"category": "liabilities", "label": "Current & savings balances", "group": "Current Accounts"},
+    "CASA|DR": {"category": "assets", "label": "Overdrafts", "group": "Loans & Advances"},
+    "TD|CR": {"category": "liabilities", "label": "Fixed & term deposits", "group": "Fixed & Term Deposits"},
+    "LN|DR": {"category": "assets", "label": "Loans & advances", "group": "Loans & Advances"},
+    "FC MARGIN|CR": {"category": "liabilities", "label": "Cash margin deposits", "group": "Cash Margin Deposits"},
+    "CARD|DR": {"category": "assets", "label": "Card debit balances", "group": "Credit Cards"},
+    "CARD|CR": {"category": "liabilities", "label": "Card credit balances", "group": "Credit Cards"},
+    "Foreign Bills|DR": {"category": "assets", "label": "Foreign bills financing", "group": "Trade Finance"},
+    "Bank Guarantee|DR": {"category": "contingent", "label": "Bank guarantees", "group": "Guarantees"},
+    "Document Credit|DR": {"category": "contingent", "label": "Documentary credits", "group": "Trade Finance"},
+    "Remittance|DR": {"category": "payments", "label": "Remittances & payments", "group": "Remittances & Payments"}
+  }
+}

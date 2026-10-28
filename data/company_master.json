@@ -1,0 +1,264 @@
+{
+  "50100120": {
+    "legal_name": "CENTRAL FINANCE COMPANY PLC",
+    "industry": "financial_services",
+    "industry_label": "Financial services",
+    "description": "A Sri Lankan finance company providing asset leasing, savings and deposit products, contract hire, fleet management and lending services.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://cf.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://cf.lk/investor-information/"
+      }
+    ],
+    "profile_source_url": "https://cf.lk/about-us/",
+    "source_checked": "2026-10-28"
+  },
+  "50100126": {
+    "legal_name": "CEYLON GRAIN ELEVATORS PLC",
+    "industry": "agriculture",
+    "industry_label": "Agriculture & food",
+    "description": "An integrated feed-milling and poultry business in the Prima group, with feed production, breeding, hatcheries and commercial farming activities.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://prima.com.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://cdn.cse.lk/cmt/upload_report_file/671_1777977423734.pdf"
+      }
+    ],
+    "profile_source_url": "https://prima.com.lk/businesses/ceylon-grain-elevators/",
+    "source_checked": "2026-10-28"
+  },
+  "50201635": {
+    "legal_name": "DIALOG AXIATA PLC",
+    "industry": "telecommunications",
+    "industry_label": "Telecommunications",
+    "description": "A Sri Lankan telecommunications group providing mobile connectivity and related internet, fixed connectivity, transmission infrastructure and television services.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://dialog.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://dialog.lk/investors"
+      }
+    ],
+    "profile_source_url": "https://dialog.lk/fact-sheet?language=en",
+    "source_checked": "2026-10-28"
+  },
+  "50205063": {
+    "legal_name": "ASIRI HOSPITAL HOLDINGS PLC",
+    "industry": "healthcare",
+    "industry_label": "Healthcare",
+    "description": "A Sri Lankan healthcare group operating private hospitals and diagnostic laboratory services under Asiri Health.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://asirihealth.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://asirihealth.com/asiri-financial-information"
+      }
+    ],
+    "profile_source_url": "https://asirihealth.com/asiri-about-us",
+    "source_checked": "2026-10-28"
+  },
+  "50218745": {
+    "legal_name": "JOHN KEELLS HOLDINGS PLC",
+    "industry": "diversified",
+    "industry_label": "Diversified group",
+    "description": "A Sri Lankan diversified group with businesses in leisure, transportation, retail, consumer foods, property, financial services and information technology.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://keells.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.keells.com/investor-relations/"
+      }
+    ],
+    "profile_source_url": "https://keells.lk/about-us/",
+    "source_checked": "2026-10-28"
+  },
+  "50223711": {
+    "legal_name": "LION BREWERY (CEYLON) PLC",
+    "industry": "manufacturing",
+    "industry_label": "Manufacturing",
+    "description": "A Sri Lankan brewing business producing and marketing beer brands, including Lion, with domestic distribution and international market activities.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.lionbeer.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.lionbeer.com/invester-relations"
+      }
+    ],
+    "profile_source_url": "https://www.lionbeer.com/invester-relations",
+    "source_checked": "2026-10-28"
+  },
+  "50241932": {
+    "legal_name": "CIC HOLDINGS PLC",
+    "industry": "agriculture",
+    "industry_label": "Agriculture & food",
+    "description": "A Sri Lankan diversified business with crop solutions, agricultural produce, livestock solutions, health and personal care, and industrial solutions activities.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.cic.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.cic.lk/reports-and-presentation/"
+      }
+    ],
+    "profile_source_url": "https://www.cic.lk/our-segments",
+    "source_checked": "2026-10-28"
+  },
+  "50252639": {
+    "legal_name": "LOLC FINANCE PLC",
+    "industry": "financial_services",
+    "industry_label": "Financial services",
+    "description": "A Sri Lankan finance company offering deposit and financing services, including vehicle and SME finance, working capital and Islamic finance.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.lolcfinance.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.lolcfinance.com/investor-relations/"
+      }
+    ],
+    "profile_source_url": "https://www.lolcfinance.com/about-us/index.html",
+    "source_checked": "2026-10-28"
+  },
+  "50338088": {
+    "legal_name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+    "industry": "financial_services",
+    "industry_label": "Financial services",
+    "description": "A Sri Lankan financial services provider offering savings and deposits, leasing, personal and business lending, card services and other financial products.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.cdb.lk/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://cdb.lk/about-us/investor-relations"
+      }
+    ],
+    "profile_source_url": "https://www.cdb.lk/about-us",
+    "source_checked": "2026-10-28"
+  },
+  "50415498": {
+    "legal_name": "FINTREX FINANCE PLC",
+    "industry": "financial_services",
+    "industry_label": "Financial services",
+    "description": "A Sri Lankan finance company offering products including gold loans, deposits, savings accounts, leasing and other financing services.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://fintrexfinance.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://fintrexfinance.com/en/financial-statements/"
+      }
+    ],
+    "profile_source_url": "https://fintrexfinance.com/en/",
+    "source_checked": "2026-10-28"
+  },
+  "50688593": {
+    "legal_name": "HAYCARB PLC",
+    "industry": "manufacturing",
+    "industry_label": "Manufacturing",
+    "description": "A Hayleys group company manufacturing coconut-shell activated carbon and providing purification products and environmental engineering solutions.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.haycarb.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.haycarb.com/investors/"
+      }
+    ],
+    "profile_source_url": "https://www.haycarb.com/activated-carbon-company/",
+    "source_checked": "2026-10-28"
+  },
+  "50774687": {
+    "legal_name": "ASIA ASSET FINANCE PLC",
+    "industry": "financial_services",
+    "industry_label": "Financial services",
+    "description": "A Sri Lankan finance company offering deposits, gold loans, leasing, mortgages and personal, business and corporate lending products.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.asiaassetfinance.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.asiaassetfinance.com/downloads/"
+      }
+    ],
+    "profile_source_url": "https://www.asiaassetfinance.com/about/",
+    "source_checked": "2026-10-28"
+  },
+  "51002024": {
+    "legal_name": "BROWNS INVESTMENTS PLC",
+    "industry": "diversified",
+    "industry_label": "Diversified group",
+    "description": "A diversified investment business with interests in leisure, agriculture and plantations, construction and real estate, and other strategic investments.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.brownsinvestments.com/"
+      }
+    ],
+    "profile_source_url": "https://www.brownsinvestments.com/",
+    "source_checked": "2026-10-28"
+  },
+  "51039588": {
+    "legal_name": "HAYLEYS PLC",
+    "industry": "diversified",
+    "industry_label": "Diversified group",
+    "description": "A Sri Lankan diversified group with businesses across manufacturing, agriculture, plantations, purification, logistics, consumer markets, leisure and other sectors.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://www.hayleys.com/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "https://www.hayleys.com/annual-reports/"
+      }
+    ],
+    "profile_source_url": "https://www.hayleys.com/sectors/",
+    "source_checked": "2026-10-28"
+  }
+}
