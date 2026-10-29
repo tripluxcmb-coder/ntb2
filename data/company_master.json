@@ -260,5 +260,62 @@
     ],
     "profile_source_url": "https://www.hayleys.com/sectors/",
     "source_checked": "2026-10-28"
+  },
+  "10205574": {
+    "legal_name": "ANIL KUMAR LALCHAND HIRDARAMANI",
+    "industry": "PB",
+    "industry_label": "-",
+    "description": "Individual",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "-"
+      },
+      {
+        "label": "Financial statements",
+        "url": "-"
+      }
+    ],
+    "profile_source_url": "https://mycorporateinfo.com/director/anil-kumar-lalchand-hirdaramani-1999920",
+    "source_checked": "2026-10-28"
+  },
+  "10219465": {
+    "legal_name": "MAHESH CHANDRA AMALEAN",
+    "industry": "PB",
+    "industry_label": "-",
+    "description": "Individual",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "-/"
+      },
+      {
+        "label": "Financial statements",
+        "url": "-"
+      }
+    ],
+    "profile_source_url": "https://en.wikipedia.org/wiki/Mahesh_Amalean",
+    "source_checked": "2026-10-28"
+  },
+  "51012681": {
+    "legal_name": "L. G. FARM (PRIVATE) LIMITED",
+    "industry": "diversified",
+    "industry_label": "Diversified group",
+    "description": "A Sri Lankan diversified group with businesses across manufacturing, agriculture, plantations, purification, logistics, consumer markets, leisure and other sectors.",
+    "is_bank": false,
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://lgfarm.lk/about.php"
+      },
+      {
+        "label": "Financial statements",
+        "url": "-"
+      }
+    ],
+    "profile_source_url": "https://lgfarm.lk/about.php",
+    "source_checked": "2026-10-28"
   }
 }
